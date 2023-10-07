@@ -1,0 +1,107 @@
+  {'head': 'Mohandas Karamchand Gandhi', 'type': 'date of birth', 'tail': '2 October 1869'}
+  {'head': 'Mohandas Karamchand Gandhi', 'type': 'date of death', 'tail': '30 January 1948'}
+  {'head': 'assassinated Gandhi by firing three bullets into his chest', 'type': 'point in time', 'tail': '30 January 1948'}
+  {'head': 'Gandhi Jayanti', 'type': 'named after', 'tail': 'Gandhi'}
+  {'head': 'Gandhi', 'type': 'date of birth', 'tail': '2 October 1869'}
+  {'head': 'Gandhi', 'type': 'date of death', 'tail': '30 January 1948'}
+  {'head': 'Karamchand', 'type': 'spouse', 'tail': 'Putlibai'}
+  {'head': 'Putlibai', 'type': 'spouse', 'tail': 'Karamchand'}
+  {'head': 'Mohandas', 'type': 'mother', 'tail': 'Putlibai'}
+  {'head': 'Putlibai', 'type': 'child', 'tail': 'Mohandas'}
+  {'head': 'Theosophical Society', 'type': 'inception', 'tail': '1875'}
+  {'head': 'Theosophical Society', 'type': 'founded by', 'tail': 'Arnold Hills'}
+  {'head': 'Inns of Court School of Law', 'type': 'located in the administrative territorial entity', 'tail': 'London'}
+  {'head': 'South Africa', 'type': 'member of', 'tail': 'British Empire'}
+  {'head': 'Dada Abdullah', 'type': 'country of citizenship', 'tail': 'South Africa'}
+  {'head': 'South Africa', 'type': 'country', 'tail': 'British Empire'}
+  {'head': 'Natal Indian Congress', 'type': 'inception', 'tail': '1894'}
+  {'head': 'a new Act', 'type': 'publication date', 'tail': '1906'}
+  {'head': 'Battle of Colenso', 'type': 'part of', 'tail': 'Boer War'}
+  {'head': 'Nelson Mandela', 'type': 'member of political party', 'tail': 'Indian National Congress'}
+  {'head': 'Gopal Krishna Gokhale', 'type': 'member of political party', 'tail': 'Indian National Congress'}
+  {'head': 'Ambulance Corps', 'type': 'conflict', 'tail': 'World War I'}
+  {'head': 'Champaran agitation', 'type': 'point in time', 'tail': '1917'}
+  {'head': 'Champaran agitation', 'type': 'start time', 'tail': '1917'}
+  {'head': 'Rowlatt Act', 'type': 'instance of', 'tail': 'civil disobedience'}
+  {'head': 'Khilafat movement', 'type': 'end time', 'tail': '1922'}
+  {'head': 'Khilafat movement', 'type': 'dissolved, abolished or demolished date', 'tail': '1922'}
+  {'head': 'Chitta Ranjan Das', 'type': 'member of political party', 'tail': 'Indian National Congress'}
+  {'head': 'Sardar Vallabhbhai Patel', 'type': 'member of political party', 'tail': 'Indian National Congress'}
+  {'head': 'Chakravarti Rajagopalachari', 'type': 'member of political party', 'tail': 'Indian National Congress'}
+  {'head': 'Dandi', 'type': 'located in the administrative territorial entity', 'tail': 'Gujarat'}
+  {'head': 'Salt March to Dandi', 'type': 'location', 'tail': 'Dandi'}
+  {'head': 'Salt March to Dandi', 'type': 'location', 'tail': 'Dandi, Gujarat'}
+  {'head': 'Rama-rajya', 'type': 'present in work', 'tail': 'Ramayana'}
+  {'head': 'Ramayana', 'type': 'characters', 'tail': 'Rama-rajya'}
+  {'head': 'Rama', 'type': 'present in work', 'tail': 'Ramayana'}
+  {'head': 'Ramayana', 'type': 'characters', 'tail': 'Rama'}
+  {'head': 'Second Round Table conference', 'type': 'point in time', 'tail': '1932'}
+  {'head': 'Second Round Table conference', 'type': 'instance of', 'tail': 'Round Table Conferences'}
+  {'head': 'Quit India movement', 'type': 'point in time', 'tail': '1934'}
+  {'head': 'Muhammad Ali Jinnah', 'type': 'member of political party', 'tail': 'Muslim League'}
+  {'head': 'Muhammad Ali Jinnah', 'type': 'member of political party', 'tail': 'Indian National Congress'}
+  {'head': 'Mahadev Desai', 'type': 'date of death', 'tail': '22 February 1944'}
+  {'head': 'Nathuram Godse', 'type': 'date of death', 'tail': '30 January 1948'}
+  {'head': 'Birla House', 'type': 'dissolved, abolished or demolished date', 'tail': '30 January 1948'}
+  {'head': 'Birla House', 'type': 'point in time', 'tail': '30 January 1948'}
+  {'head': 'Birla House', 'type': 'occupant', 'tail': 'Nathuram Godse'}
+  {'head': 'Nathuram Vinayak Godse', 'type': 'place of birth', 'tail': 'Pune'}
+  {'head': 'Nathuram Vinayak Godse', 'type': 'sibling', 'tail': 'Gopal Godse'}
+  {'head': 'Gopal Godse', 'type': 'sibling', 'tail': 'Nathuram Vinayak Godse'}
+  {'head': 'Gopal Godse', 'type': 'place of birth', 'tail': 'Pune'}
+  {'head': 'Nathuram Vinayak Godse', 'type': 'member of political party', 'tail': 'Rashtriya Swayamsevak Sangh'}
+  {'head': 'Narayan Apte', 'type': 'member of political party', 'tail': 'Rashtriya Swayamsevak Sangh'}
+  {'head': 'Gopal Godse', 'type': 'member of political party', 'tail': 'Rashtriya Swayamsevak Sangh'}
+  {'head': 'On the Duty of Civil Disobedience', 'type': 'author', 'tail': 'William Salter'}
+  {'head': 'Henry David Thoreau', 'type': 'notable work', 'tail': 'The Kingdom of God Is Within You'}
+  {'head': 'The Kingdom of God Is Within You', 'type': 'author', 'tail': 'Henry David Thoreau'}
+  {'head': 'The Kingdom of God Is Within You', 'type': 'author', 'tail': 'Leo Tolstoy'}
+  {'head': 'A Letter to a Hindu', 'type': 'author', 'tail': 'Leo Tolstoy'}
+  {'head': 'A Letter to a Hindu', 'type': 'publication date', 'tail': '1908'}
+  {'head': 'Quit India Movement', 'type': 'point in time', 'tail': '1919'}
+  {'head': 'Quit India Movement', 'type': 'start time', 'tail': '1919'}
+  {'head': 'Quit India Movement', 'type': 'participant', 'tail': 'Gandhi'}
+  {'head': 'I Have a Dream', 'type': 'author', 'tail': 'Martin Luther King Jr.'}
+  {'head': 'God is Truth', 'type': 'instance of', 'tail': 'Truth'}
+  {'head': 'God is Truth', 'type': 'said to be the same as', 'tail': 'Truth'}
+  {'head': 'Truth', 'type': 'said to be the same as', 'tail': 'God is Truth'}
+  {'head': 'Quran', 'type': 'characters', 'tail': 'Muhammad'}
+  {'head': 'Muhammad', 'type': 'notable work', 'tail': 'Quran'}
+  {'head': 'Caliph', 'type': 'has part', 'tail': 'Ottoman Empire'}
+  {'head': 'Islamic Caliph', 'type': 'has part', 'tail': 'Ottoman Empire'}
+  {'head': 'Ottoman Empire', 'type': 'part of', 'tail': 'Islamic Caliph'}
+  {'head': 'Gandhi', 'type': 'place of birth', 'tail': 'Gujarat'}
+  {'head': 'Gandhi', 'type': 'mother', 'tail': 'his devout Hindu mother'}
+  {'head': "Gandhi's 1943 hunger strike", 'type': 'point in time', 'tail': '1932'}
+  {'head': "Gandhi's 1943 hunger strike", 'type': 'instance of', 'tail': 'hunger strike'}
+  {'head': "Gandhi's 1943 hunger strike", 'type': 'participant', 'tail': 'Gandhi'}
+  {'head': 'Abha', 'type': 'spouse', 'tail': 'Kanu'}
+  {'head': 'Kanu', 'type': 'spouse', 'tail': 'Abha'}
+  {'head': 'Abha', 'type': 'spouse', 'tail': 'Manu'}
+  {'head': 'Manu', 'type': 'spouse', 'tail': 'Abha'}
+  {'head': 'elections of 1937', 'type': 'point in time', 'tail': '1937'}
+  {'head': '1937', 'type': 'point in time', 'tail': '1937'}
+  {'head': 'Gandhi', 'type': 'candidacy in election', 'tail': 'elections of 1937'}
+  {'head': 'elections of 1937', 'type': 'candidate', 'tail': 'Gandhi'}
+  {'head': 'Gujarat Vidyapith', 'type': 'located in the administrative territorial entity', 'tail': 'Ahmedabad'}
+  {'head': 'Gujarat Vidyapith', 'type': 'headquarters location', 'tail': 'Ahmedabad'}
+  {'head': "Gandhi's assassination", 'type': 'facet of', 'tail': 'Dalit movement'}
+  {'head': 'Nehru', 'type': 'member of political party', 'tail': 'Indian National Congress'}
+  {'head': 'Nehru', 'type': 'position held', 'tail': 'prime minister'}
+  {'head': 'Mohammad Iqbal', 'type': 'political ideology', 'tail': 'Hindu nationalist'}
+  {'head': 'Hind Swaraj', 'type': 'publication date', 'tail': '1909'}
+  {'head': 'The Collected Works of', 'type': 'publication date', 'tail': '1909'}
+  {'head': 'The Collected Works of Mahhi', 'type': 'publication date', 'tail': '1909'}
+  {'head': 'Mahatma Gandhi', 'type': 'place of birth', 'tail': 'Gandhinagar'}
+  {'head': 'statue of Gandhi', 'type': 'inception', 'tail': '15 December 2022'}
+  {'head': 'Nelson Mandela', 'type': 'position held', 'tail': 'President of South Africa'}
+  {'head': 'International Day of Nonviolence', 'type': 'inception', 'tail': '1948'}
+  {'head': 'Community of the Ark', 'type': 'inception', 'tail': '1948'}
+  {'head': 'Mahatma Gandhi District', 'type': 'located in the administrative territorial entity', 'tail': 'Houston'}
+  {'head': 'Gandhi', 'type': 'cast member', 'tail': 'Ben Kingsley'}
+  {'head': 'Gandhi', 'type': 'award received', 'tail': 'Academy Award for Best Picture'}
+  {'head': 'Ben Kingsley', 'type': 'award received', 'tail': 'Academy Award for Best Picture'}
+  {'head': 'Mahatma Gandhi Museum', 'type': 'located in the administrative territorial entity', 'tail': 'Madurai'}
+  {'head': 'Gandhi Memorial', 'type': 'located in the administrative territorial entity', 'tail': 'Kanyakumari'}
+  {'head': 'Rajmohan Gandhi', 'type': 'child', 'tail': 'Kanu Ramdas Gandhi'}
+  {'head': 'Kanu Ramdas Gandhi', 'type': 'father', 'tail': 'Rajmohan Gandhi'}

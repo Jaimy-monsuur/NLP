@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="relation" attr.type="string"/>
+<graph edgedefault="undirected"><node id="India"/>
+<node id="Indian Ocean"/>
+<node id="Bay of Bengal"/>
+<node id="Pakistan"/>
+<node id="Bangladesh"/>
+<node id="Myanmar"/>
+<node id="Arabian Sea"/>
+<node id="Indo-Aryan"/>
+<node id="Hinduism"/>
+<node id="Indo-Aryan migration"/>
+<node id="Indo-Greek"/>
+<node id="Indo-Greece"/>
+<node id="Mahavira"/>
+<node id="Buddhism"/>
+<node id="Buddhist"/>
+<node id="Delhi Sultanate"/>
+<node id="1206"/>
+<node id="Mughal Empire"/>
+<node id="Indian National Congress"/>
+<node id="1885"/>
+<node id="republic"/>
+<node id="Indian Rebellion of 1857"/>
+<node id="1857"/>
+<node id="Indian Plate"/>
+<node id="Indo-Australian Plate"/>
+<node id="Ganges"/>
+<node id="Brahmaputra"/>
+<node id="Andaman and Nicobar Islands"/>
+<node id="ecosystem"/>
+<node id="biome"/>
+<node id="endemic"/>
+<node id="species"/>
+<node id="1951"/>
+<node id="Jawaharlal Nehru"/>
+<node id="1957"/>
+<node id="1962"/>
+<node id="2014 general election"/>
+<node id="Narendra Modi"/>
+<node id="Rajiv Gandhi"/>
+<node id="Parliament"/>
+<node id="Rajya Sabha"/>
+<node id="Government of India"/>
+<node id="President of India"/>
+<node id="president"/>
+<node id="executive committee"/>
+<node id="war with China"/>
+<node id="South America"/>
+<node id="ASEAN"/>
+<node id="World Trade Organization"/>
+<node id="S-400 Triumf"/>
+<node id="Russia"/>
+<node id="Electricity"/>
+<node id="renewable energy"/>
+<node id="global greenhouse gas emissions"/>
+<node id="UNESCO World Heritage Site"/>
+<node id="Indian languages"/>
+<node id="Hindi"/>
+<node id="Mohenjo-daro"/>
+<node id="Shiva"/>
+<node id="Parvati"/>
+<edge source="India" target="Indian Ocean">
+  <data key="d0">located in</data>
+</edge>
+<edge source="India" target="Bay of Bengal">
+  <data key="d0">located in or next to body of water</data>
+</edge>
+<edge source="India" target="Pakistan">
+  <data key="d0">shares border with</data>
+</edge>
+<edge source="India" target="Bangladesh">
+  <data key="d0">shares border with</data>
+</edge>
+<edge source="India" target="Myanmar">
+  <data key="d0">shares border with</data>
+</edge>
+<edge source="India" target="Arabian Sea">
+  <data key="d0">basin country</data>
+</edge>
+<edge source="India" target="Ganges">
+  <data key="d0">located in or</data>
+</edge>
+<edge source="India" target="Brahmaputra">
+  <data key="d0">located in the administrative territorial entity</data>
+</edge>
+<edge source="India" target="Andaman and Nicobar Islands">
+  <data key="d0">contains administrative territorial entity</data>
+</edge>
+<edge source="India" target="South America">
+  <data key="d0">has part</data>
+</edge>
+<edge source="India" target="ASEAN">
+  <data key="d0">has part</data>
+</edge>
+<edge source="India" target="World Trade Organization">
+  <data key="d0">member of</data>
+</edge>
+<edge source="India" target="S-400 Triumf">
+  <data key="d0">country of origin</data>
+</edge>
+<edge source="India" target="global greenhouse gas emissions">
+  <data key="d0">significant event</data>
+</edge>
+<edge source="India" target="UNESCO World Heritage Site">
+  <data key="d0">member of</data>
+</edge>
+<edge source="India" target="Hindi">
+  <data key="d0">language used</data>
+</edge>
+<edge source="Bay of Bengal" target="Ganges">
+  <data key="d0">mouth of the watercourse</data>
+</edge>
+<edge source="Pakistan" target="Bangladesh">
+  <data key="d0">shares border with</data>
+</edge>
+<edge source="Pakistan" target="war with China">
+  <data key="d0">participant</data>
+</edge>
+<edge source="Pakistan" target="Mohenjo-daro">
+  <data key="d0">country</data>
+</edge>
+<edge source="Indo-Aryan" target="Hinduism">
+  <data key="d0">religion</data>
+</edge>
+<edge source="Indo-Aryan migration" target="Indo-Greek">
+  <data key="d0">part of</data>
+</edge>
+<edge source="Indo-Aryan migration" target="Indo-Greece">
+  <data key="d0">location</data>
+</edge>
+<edge source="Mahavira" target="Buddhism">
+  <data key="d0">part of</data>
+</edge>
+<edge source="Mahavira" target="Buddhist">
+  <data key="d0">religion</data>
+</edge>
+<edge source="Delhi Sultanate" target="1206">
+  <data key="d0">inception</data>
+</edge>
+<edge source="Delhi Sultanate" target="Mughal Empire">
+  <data key="d0">replaced by</data>
+</edge>
+<edge source="1206" target="Mughal Empire">
+  <data key="d0">inception</data>
+</edge>
+<edge source="Indian National Congress" target="1885">
+  <data key="d0">inception</data>
+</edge>
+<edge source="Indian National Congress" target="republic">
+  <data key="d0">instance of</data>
+</edge>
+<edge source="Indian National Congress" target="Rajiv Gandhi">
+  <data key="d0">member of political party</data>
+</edge>
+<edge source="Indian Rebellion of 1857" target="1857">
+  <data key="d0">point in time</data>
+</edge>
+<edge source="Indian Plate" target="Indo-Australian Plate">
+  <data key="d0">shares border with</data>
+</edge>
+<edge source="ecosystem" target="biome">
+  <data key="d0">subclass of</data>
+</edge>
+<edge source="endemic" target="species">
+  <data key="d0">subclass of</data>
+</edge>
+<edge source="1951" target="Jawaharlal Nehru">
+  <data key="d0">successful candidate</data>
+</edge>
+<edge source="Jawaharlal Nehru" target="1957">
+  <data key="d0">successful candidate</data>
+</edge>
+<edge source="Jawaharlal Nehru" target="1962">
+  <data key="d0">successful candidate</data>
+</edge>
+<edge source="1957" target="1962">
+  <data key="d0">followed by</data>
+</edge>
+<edge source="1962" target="1962">
+  <data key="d0">point in time</data>
+</edge>
+<edge source="2014 general election" target="Narendra Modi">
+  <data key="d0">successful candidate</data>
+</edge>
+<edge source="Parliament" target="Rajya Sabha">
+  <data key="d0">part of</data>
+</edge>
+<edge source="Government of India" target="President of India">
+  <data key="d0">part of</data>
+</edge>
+<edge source="Government of India" target="president">
+  <data key="d0">part of</data>
+</edge>
+<edge source="Government of India" target="executive committee">
+  <data key="d0">part of</data>
+</edge>
+<edge source="S-400 Triumf" target="Russia">
+  <data key="d0">country of origin</data>
+</edge>
+<edge source="Electricity" target="renewable energy">
+  <data key="d0">subclass of</data>
+</edge>
+<edge source="Indian languages" target="Hindi">
+  <data key="d0">part of</data>
+</edge>
+<edge source="Shiva" target="Parvati">
+  <data key="d0">spouse</data>
+</edge>
+</graph></graphml>

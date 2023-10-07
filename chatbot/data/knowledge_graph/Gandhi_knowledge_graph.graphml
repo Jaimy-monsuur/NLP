@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="relation" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Mohandas Karamchand Gandhi"/>
+<node id="2 October 1869"/>
+<node id="30 January 1948"/>
+<node id="assassinated Gandhi by firing three bullets into his chest"/>
+<node id="Gandhi Jayanti"/>
+<node id="Gandhi"/>
+<node id="Karamchand"/>
+<node id="Putlibai"/>
+<node id="Mohandas"/>
+<node id="Theosophical Society"/>
+<node id="1875"/>
+<node id="Arnold Hills"/>
+<node id="Inns of Court School of Law"/>
+<node id="London"/>
+<node id="South Africa"/>
+<node id="British Empire"/>
+<node id="Dada Abdullah"/>
+<node id="Natal Indian Congress"/>
+<node id="1894"/>
+<node id="a new Act"/>
+<node id="1906"/>
+<node id="Battle of Colenso"/>
+<node id="Boer War"/>
+<node id="Nelson Mandela"/>
+<node id="Indian National Congress"/>
+<node id="Gopal Krishna Gokhale"/>
+<node id="Ambulance Corps"/>
+<node id="World War I"/>
+<node id="Champaran agitation"/>
+<node id="1917"/>
+<node id="Rowlatt Act"/>
+<node id="civil disobedience"/>
+<node id="Khilafat movement"/>
+<node id="1922"/>
+<node id="Chitta Ranjan Das"/>
+<node id="Sardar Vallabhbhai Patel"/>
+<node id="Chakravarti Rajagopalachari"/>
+<node id="Dandi"/>
+<node id="Gujarat"/>
+<node id="Salt March to Dandi"/>
+<node id="Dandi, Gujarat"/>
+<node id="Rama-rajya"/>
+<node id="Ramayana"/>
+<node id="Rama"/>
+<node id="Second Round Table conference"/>
+<node id="1932"/>
+<node id="Round Table Conferences"/>
+<node id="Quit India movement"/>
+<node id="1934"/>
+<node id="Muhammad Ali Jinnah"/>
+<node id="Muslim League"/>
+<node id="Mahadev Desai"/>
+<node id="22 February 1944"/>
+<node id="Nathuram Godse"/>
+<node id="Birla House"/>
+<node id="Nathuram Vinayak Godse"/>
+<node id="Pune"/>
+<node id="Gopal Godse"/>
+<node id="Rashtriya Swayamsevak Sangh"/>
+<node id="Narayan Apte"/>
+<node id="On the Duty of Civil Disobedience"/>
+<node id="William Salter"/>
+<node id="Henry David Thoreau"/>
+<node id="The Kingdom of God Is Within You"/>
+<node id="Leo Tolstoy"/>
+<node id="A Letter to a Hindu"/>
+<node id="1908"/>
+<node id="Quit India Movement"/>
+<node id="1919"/>
+<node id="I Have a Dream"/>
+<node id="Martin Luther King Jr."/>
+<node id="God is Truth"/>
+<node id="Truth"/>
+<node id="Quran"/>
+<node id="Muhammad"/>
+<node id="Caliph"/>
+<node id="Ottoman Empire"/>
+<node id="Islamic Caliph"/>
+<node id="his devout Hindu mother"/>
+<node id="Gandhi's 1943 hunger strike"/>
+<node id="hunger strike"/>
+<node id="Abha"/>
+<node id="Kanu"/>
+<node id="Manu"/>
+<node id="elections of 1937"/>
+<node id="1937"/>
+<node id="Gujarat Vidyapith"/>
+<node id="Ahmedabad"/>
+<node id="Gandhi's assassination"/>
+<node id="Dalit movement"/>
+<node id="Nehru"/>
+<node id="prime minister"/>
+<node id="Mohammad Iqbal"/>
+<node id="Hindu nationalist"/>
+<node id="Hind Swaraj"/>
+<node id="1909"/>
+<node id="The Collected Works of"/>
+<node id="The Collected Works of Mahhi"/>
+<node id="Mahatma Gandhi"/>
+<node id="Gandhinagar"/>
+<node id="statue of Gandhi"/>
+<node id="15 December 2022"/>
+<node id="President of South Africa"/>
+<node id="International Day of Nonviolence"/>
+<node id="1948"/>
+<node id="Community of the Ark"/>
+<node id="Mahatma Gandhi District"/>
+<node id="Houston"/>
+<node id="Ben Kingsley"/>
+<node id="Academy Award for Best Picture"/>
+<node id="Mahatma Gandhi Museum"/>
+<node id="Madurai"/>
+<node id="Gandhi Memorial"/>
+<node id="Kanyakumari"/>
+<node id="Rajmohan Gandhi"/>
+<node id="Kanu Ramdas Gandhi"/>
+<edge source="Mohandas Karamchand Gandhi" target="2 October 1869">
+  <data key="d0">date of birth</data>
+</edge>
+<edge source="Mohandas Karamchand Gandhi" target="30 January 1948">
+  <data key="d0">date of death</data>
+</edge>
+<edge source="2 October 1869" target="Gandhi">
+  <data key="d0">date of birth</data>
+</edge>
+<edge source="30 January 1948" target="assassinated Gandhi by firing three bullets into his chest">
+  <data key="d0">point in time</data>
+</edge>
+<edge source="30 January 1948" target="Gandhi">
+  <data key="d0">date of death</data>
+</edge>
+<edge source="30 January 1948" target="Nathuram Godse">
+  <data key="d0">date of death</data>
+</edge>
+<edge source="30 January 1948" target="Birla House">
+  <data key="d0">point in time</data>
+</edge>
+<edge source="Gandhi Jayanti" target="Gandhi">
+  <data key="d0">named after</data>
+</edge>
+<edge source="Gandhi" target="Quit India Movement">
+  <data key="d0">participant</data>
+</edge>
+<edge source="Gandhi" target="Gujarat">
+  <data key="d0">place of birth</data>
+</edge>
+<edge source="Gandhi" target="his devout Hindu mother">
+  <data key="d0">mother</data>
+</edge>
+<edge source="Gandhi" target="Gandhi's 1943 hunger strike">
+  <data key="d0">participant</data>
+</edge>
+<edge source="Gandhi" target="elections of 1937">
+  <data key="d0">candidate</data>
+</edge>
+<edge source="Gandhi" target="Ben Kingsley">
+  <data key="d0">cast member</data>
+</edge>
+<edge source="Gandhi" target="Academy Award for Best Picture">
+  <data key="d0">award received</data>
+</edge>
+<edge source="Karamchand" target="Putlibai">
+  <data key="d0">spouse</data>
+</edge>
+<edge source="Putlibai" target="Mohandas">
+  <data key="d0">child</data>
+</edge>
+<edge source="Theosophical Society" target="1875">
+  <data key="d0">inception</data>
+</edge>
+<edge source="Theosophical Society" target="Arnold Hills">
+  <data key="d0">founded by</data>
+</edge>
+<edge source="Inns of Court School of Law" target="London">
+  <data key="d0">located in the administrative territorial entity</data>
+</edge>
+<edge source="South Africa" target="British Empire">
+  <data key="d0">country</data>
+</edge>
+<edge source="South Africa" target="Dada Abdullah">
+  <data key="d0">country of citizenship</data>
+</edge>
+<edge source="Natal Indian Congress" target="1894">
+  <data key="d0">inception</data>
+</edge>
+<edge source="a new Act" target="1906">
+  <data key="d0">publication date</data>
+</edge>
+<edge source="Battle of Colenso" target="Boer War">
+  <data key="d0">part of</data>
+</edge>
+<edge source="Nelson Mandela" target="Indian National Congress">
+  <data key="d0">member of political party</data>
+</edge>
+<edge source="Nelson Mandela" target="President of South Africa">
+  <data key="d0">position held</data>
+</edge>
+<edge source="Indian National Congress" target="Gopal Krishna Gokhale">
+  <data key="d0">member of political party</data>
+</edge>
+<edge source="Indian National Congress" target="Chitta Ranjan Das">
+  <data key="d0">member of political party</data>
+</edge>
+<edge source="Indian National Congress" target="Sardar Vallabhbhai Patel">
+  <data key="d0">member of political party</data>
+</edge>
+<edge source="Indian National Congress" target="Chakravarti Rajagopalachari">
+  <data key="d0">member of political party</data>
+</edge>
+<edge source="Indian National Congress" target="Muhammad Ali Jinnah">
+  <data key="d0">member of political party</data>
+</edge>
+<edge source="Indian National Congress" target="Nehru">
+  <data key="d0">member of political party</data>
+</edge>
+<edge source="Ambulance Corps" target="World War I">
+  <data key="d0">conflict</data>
+</edge>
+<edge source="Champaran agitation" target="1917">
+  <data key="d0">start time</data>
+</edge>
+<edge source="Rowlatt Act" target="civil disobedience">
+  <data key="d0">instance of</data>
+</edge>
+<edge source="Khilafat movement" target="1922">
+  <data key="d0">dissolved, abolished or demolished date</data>
+</edge>
+<edge source="Dandi" target="Gujarat">
+  <data key="d0">located in the administrative territorial entity</data>
+</edge>
+<edge source="Dandi" target="Salt March to Dandi">
+  <data key="d0">location</data>
+</edge>
+<edge source="Salt March to Dandi" target="Dandi, Gujarat">
+  <data key="d0">location</data>
+</edge>
+<edge source="Rama-rajya" target="Ramayana">
+  <data key="d0">characters</data>
+</edge>
+<edge source="Ramayana" target="Rama">
+  <data key="d0">characters</data>
+</edge>
+<edge source="Second Round Table conference" target="1932">
+  <data key="d0">point in time</data>
+</edge>
+<edge source="Second Round Table conference" target="Round Table Conferences">
+  <data key="d0">instance of</data>
+</edge>
+<edge source="1932" target="Gandhi's 1943 hunger strike">
+  <data key="d0">point in time</data>
+</edge>
+<edge source="Quit India movement" target="1934">
+  <data key="d0">point in time</data>
+</edge>
+<edge source="Muhammad Ali Jinnah" target="Muslim League">
+  <data key="d0">member of political party</data>
+</edge>
+<edge source="Mahadev Desai" target="22 February 1944">
+  <data key="d0">date of death</data>
+</edge>
+<edge source="Nathuram Godse" target="Birla House">
+  <data key="d0">occupant</data>
+</edge>
+<edge source="Nathuram Vinayak Godse" target="Pune">
+  <data key="d0">place of birth</data>
+</edge>
+<edge source="Nathuram Vinayak Godse" target="Gopal Godse">
+  <data key="d0">sibling</data>
+</edge>
+<edge source="Nathuram Vinayak Godse" target="Rashtriya Swayamsevak Sangh">
+  <data key="d0">member of political party</data>
+</edge>
+<edge source="Pune" target="Gopal Godse">
+  <data key="d0">place of birth</data>
+</edge>
+<edge source="Gopal Godse" target="Rashtriya Swayamsevak Sangh">
+  <data key="d0">member of political party</data>
+</edge>
+<edge source="Rashtriya Swayamsevak Sangh" target="Narayan Apte">
+  <data key="d0">member of political party</data>
+</edge>
+<edge source="On the Duty of Civil Disobedience" target="William Salter">
+  <data key="d0">author</data>
+</edge>
+<edge source="Henry David Thoreau" target="The Kingdom of God Is Within You">
+  <data key="d0">author</data>
+</edge>
+<edge source="The Kingdom of God Is Within You" target="Leo Tolstoy">
+  <data key="d0">author</data>
+</edge>
+<edge source="Leo Tolstoy" target="A Letter to a Hindu">
+  <data key="d0">author</data>
+</edge>
+<edge source="A Letter to a Hindu" target="1908">
+  <data key="d0">publication date</data>
+</edge>
+<edge source="Quit India Movement" target="1919">
+  <data key="d0">start time</data>
+</edge>
+<edge source="I Have a Dream" target="Martin Luther King Jr.">
+  <data key="d0">author</data>
+</edge>
+<edge source="God is Truth" target="Truth">
+  <data key="d0">said to be the same as</data>
+</edge>
+<edge source="Quran" target="Muhammad">
+  <data key="d0">notable work</data>
+</edge>
+<edge source="Caliph" target="Ottoman Empire">
+  <data key="d0">has part</data>
+</edge>
+<edge source="Ottoman Empire" target="Islamic Caliph">
+  <data key="d0">part of</data>
+</edge>
+<edge source="Gandhi's 1943 hunger strike" target="hunger strike">
+  <data key="d0">instance of</data>
+</edge>
+<edge source="Abha" target="Kanu">
+  <data key="d0">spouse</data>
+</edge>
+<edge source="Abha" target="Manu">
+  <data key="d0">spouse</data>
+</edge>
+<edge source="elections of 1937" target="1937">
+  <data key="d0">point in time</data>
+</edge>
+<edge source="1937" target="1937">
+  <data key="d0">point in time</data>
+</edge>
+<edge source="Gujarat Vidyapith" target="Ahmedabad">
+  <data key="d0">headquarters location</data>
+</edge>
+<edge source="Gandhi's assassination" target="Dalit movement">
+  <data key="d0">facet of</data>
+</edge>
+<edge source="Nehru" target="prime minister">
+  <data key="d0">position held</data>
+</edge>
+<edge source="Mohammad Iqbal" target="Hindu nationalist">
+  <data key="d0">political ideology</data>
+</edge>
+<edge source="Hind Swaraj" target="1909">
+  <data key="d0">publication date</data>
+</edge>
+<edge source="1909" target="The Collected Works of">
+  <data key="d0">publication date</data>
+</edge>
+<edge source="1909" target="The Collected Works of Mahhi">
+  <data key="d0">publication date</data>
+</edge>
+<edge source="Mahatma Gandhi" target="Gandhinagar">
+  <data key="d0">place of birth</data>
+</edge>
+<edge source="statue of Gandhi" target="15 December 2022">
+  <data key="d0">inception</data>
+</edge>
+<edge source="International Day of Nonviolence" target="1948">
+  <data key="d0">inception</data>
+</edge>
+<edge source="1948" target="Community of the Ark">
+  <data key="d0">inception</data>
+</edge>
+<edge source="Mahatma Gandhi District" target="Houston">
+  <data key="d0">located in the administrative territorial entity</data>
+</edge>
+<edge source="Ben Kingsley" target="Academy Award for Best Picture">
+  <data key="d0">award received</data>
+</edge>
+<edge source="Mahatma Gandhi Museum" target="Madurai">
+  <data key="d0">located in the administrative territorial entity</data>
+</edge>
+<edge source="Gandhi Memorial" target="Kanyakumari">
+  <data key="d0">located in the administrative territorial entity</data>
+</edge>
+<edge source="Rajmohan Gandhi" target="Kanu Ramdas Gandhi">
+  <data key="d0">father</data>
+</edge>
+</graph></graphml>

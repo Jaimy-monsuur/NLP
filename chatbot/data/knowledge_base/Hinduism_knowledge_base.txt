@@ -1,0 +1,62 @@
+  {'head': 'Upanishads', 'type': 'part of', 'tail': 'Vedas'}
+  {'head': 'Vedas', 'type': 'language of work or name', 'tail': 'sanskrit'}
+  {'head': 'Vedas', 'type': 'has part', 'tail': 'Mahabharata'}
+  {'head': 'Mahabharata', 'type': 'part of', 'tail': 'Vedas'}
+  {'head': 'Vaishnava', 'type': 'subclass of', 'tail': 'Hinduism'}
+  {'head': 'Yogic Hinduism', 'type': 'subclass of', 'tail': 'Hinduism'}
+  {'head': 'Bhagavata Purana', 'type': 'language of work or name', 'tail': 'Sanskrit'}
+  {'head': 'Bhagavata Purana', 'type': 'based on', 'tail': 'Vedas'}
+  {'head': 'Swami Vivekananda', 'type': 'movement', 'tail': 'Hindu Renaissance'}
+  {'head': 'Swami Vivekananda', 'type': 'influenced by', 'tail': 'Mahatma Gandhi'}
+  {'head': 'Mahatma Gandhi', 'type': 'movement', 'tail': 'Hindu Renaissance'}
+  {'head': 'Vedas', 'type': 'instance of', 'tail': 'sacred literature'}
+  {'head': 'Vedas', 'type': 'facet of', 'tail': 'Hinduism'}
+  {'head': 'Tantric', 'type': 'subclass of', 'tail': 'Hinduism'}
+  {'head': 'Tantric', 'type': 'facet of', 'tail': 'Hinduism'}
+  {'head': 'Vaishnava', 'type': 'subclass of', 'tail': 'Hinduism'}
+  {'head': 'Advaita Vedanta', 'type': 'part of', 'tail': 'Hinduism'}
+  {'head': 'Advaita Vedanta', 'type': 'facet of', 'tail': 'Hinduism'}
+  {'head': 'Atman', 'type': 'facet of', 'tail': 'Hinduism'}
+  {'head': 'moksha', 'type': 'facet of', 'tail': 'Hinduism'}
+  {'head': 'Atman', 'type': 'said to be the same as', 'tail': 'Brahman'}
+  {'head': 'Brahman', 'type': 'said to be the same as', 'tail': 'Atman'}
+  {'head': 'Advaita Vedanta', 'type': 'subclass of', 'tail': 'Hinduism'}
+  {'head': 'Bhakti', 'type': 'subclass of', 'tail': 'Hinduism'}
+  {'head': 'Upanishads', 'type': 'facet of', 'tail': 'Hinduism'}
+  {'head': 'Bhagavan', 'type': 'facet of', 'tail': 'Hinduism'}
+  {'head': 'Devi', 'type': 'facet of', 'tail': 'Hinduism'}
+  {'head': 'Shiva', 'type': 'spouse', 'tail': 'Parvati'}
+  {'head': 'Parvati', 'type': 'spouse', 'tail': 'Shiva'}
+  {'head': 'Vaisheshika', 'type': 'subclass of', 'tail': 'Hinduism'}
+  {'head': 'Radha', 'type': 'spouse', 'tail': 'Krishna'}
+  {'head': 'Krishna', 'type': 'spouse', 'tail': 'Radha'}
+  {'head': 'Shakti', 'type': 'spouse', 'tail': 'Shiva'}
+  {'head': 'Shiva', 'type': 'spouse', 'tail': 'Shakti'}
+  {'head': 'Shiva', 'type': 'spouse', 'tail': 'Devi'}
+  {'head': 'Devi', 'type': 'spouse', 'tail': 'Shiva'}
+  {'head': 'Vaishnavism', 'type': 'subclass of', 'tail': 'Hinduism'}
+  {'head': 'Indo-Aryan', 'type': 'has part', 'tail': 'Indo-Aryan'}
+  {'head': 'Indo-Aryan', 'type': 'part of', 'tail': 'Indo-Aryan'}
+  {'head': 'Upanishads', 'type': 'part of', 'tail': 'Mahabharata'}
+  {'head': 'Upanishads', 'type': 'present in work', 'tail': 'Mahabharata'}
+  {'head': 'Bhakti', 'type': 'facet of', 'tail': 'Hinduism'}
+  {'head': 'Bhakti', 'type': 'instance of', 'tail': 'worship'}
+  {'head': 'Ganges', 'type': 'tributary', 'tail': 'Yamuna'}
+  {'head': 'Yamuna', 'type': 'mouth of the watercourse', 'tail': 'Ganges'}
+  {'head': 'Diwali', 'type': 'instance of', 'tail': 'festival'}
+  {'head': 'Haridwar', 'type': 'located in or next to body of water', 'tail': 'Ganges'}
+  {'head': 'Vedic calendar', 'type': 'instance of', 'tail': 'lunisolar calendar'}
+  {'head': 'Hindu calendar', 'type': 'instance of', 'tail': 'lunisolar calendar'}
+  {'head': 'Yoga Sutras', 'type': 'author', 'tail': 'Patanjali'}
+  {'head': 'Yoga', 'type': 'has part', 'tail': 'Yoga Sutras'}
+  {'head': 'Yoga Sutras', 'type': 'part of', 'tail': 'Yoga'}
+  {'head': 'Patanjali', 'type': 'notable work', 'tail': 'Yoga Sutras'}
+  {'head': 'Hindu cosmology', 'type': 'facet of', 'tail': 'Hinduism'}
+  {'head': 'Hindu cosmology', 'type': 'named after', 'tail': 'Brahma'}
+  {'head': 'Hinduism', 'type': 'religion', 'tail': 'Hinduism'}
+  {'head': 'Indo-Aryan migrations', 'type': 'facet of', 'tail': 'Hinduism'}
+  {'head': 'Indo-Aryan', 'type': 'religion', 'tail': 'Hinduism'}
+  {'head': 'Indo-Aryan', 'type': 'instance of', 'tail': 'ethnic group'}
+  {'head': 'Hinduism', 'type': 'instance of', 'tail': 'religions'}
+  {'head': 'India', 'type': 'religion', 'tail': 'Hinduism'}
+  {'head': 'Hinduism', 'type': 'instance of', 'tail': 'religion'}

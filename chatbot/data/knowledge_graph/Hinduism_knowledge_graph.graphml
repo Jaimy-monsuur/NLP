@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="relation" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Upanishads"/>
+<node id="Vedas"/>
+<node id="sanskrit"/>
+<node id="Mahabharata"/>
+<node id="Vaishnava"/>
+<node id="Hinduism"/>
+<node id="Yogic Hinduism"/>
+<node id="Bhagavata Purana"/>
+<node id="Sanskrit"/>
+<node id="Swami Vivekananda"/>
+<node id="Hindu Renaissance"/>
+<node id="Mahatma Gandhi"/>
+<node id="sacred literature"/>
+<node id="Tantric"/>
+<node id="Advaita Vedanta"/>
+<node id="Atman"/>
+<node id="moksha"/>
+<node id="Brahman"/>
+<node id="Bhakti"/>
+<node id="Bhagavan"/>
+<node id="Devi"/>
+<node id="Shiva"/>
+<node id="Parvati"/>
+<node id="Vaisheshika"/>
+<node id="Radha"/>
+<node id="Krishna"/>
+<node id="Shakti"/>
+<node id="Vaishnavism"/>
+<node id="Indo-Aryan"/>
+<node id="worship"/>
+<node id="Ganges"/>
+<node id="Yamuna"/>
+<node id="Diwali"/>
+<node id="festival"/>
+<node id="Haridwar"/>
+<node id="Vedic calendar"/>
+<node id="lunisolar calendar"/>
+<node id="Hindu calendar"/>
+<node id="Yoga Sutras"/>
+<node id="Patanjali"/>
+<node id="Yoga"/>
+<node id="Hindu cosmology"/>
+<node id="Brahma"/>
+<node id="Indo-Aryan migrations"/>
+<node id="ethnic group"/>
+<node id="religions"/>
+<node id="India"/>
+<node id="religion"/>
+<edge source="Upanishads" target="Vedas">
+  <data key="d0">part of</data>
+</edge>
+<edge source="Upanishads" target="Hinduism">
+  <data key="d0">facet of</data>
+</edge>
+<edge source="Upanishads" target="Mahabharata">
+  <data key="d0">present in work</data>
+</edge>
+<edge source="Vedas" target="sanskrit">
+  <data key="d0">language of work or name</data>
+</edge>
+<edge source="Vedas" target="Mahabharata">
+  <data key="d0">part of</data>
+</edge>
+<edge source="Vedas" target="Bhagavata Purana">
+  <data key="d0">based on</data>
+</edge>
+<edge source="Vedas" target="sacred literature">
+  <data key="d0">instance of</data>
+</edge>
+<edge source="Vedas" target="Hinduism">
+  <data key="d0">facet of</data>
+</edge>
+<edge source="Vaishnava" target="Hinduism">
+  <data key="d0">subclass of</data>
+</edge>
+<edge source="Hinduism" target="Yogic Hinduism">
+  <data key="d0">subclass of</data>
+</edge>
+<edge source="Hinduism" target="Tantric">
+  <data key="d0">facet of</data>
+</edge>
+<edge source="Hinduism" target="Advaita Vedanta">
+  <data key="d0">subclass of</data>
+</edge>
+<edge source="Hinduism" target="Atman">
+  <data key="d0">facet of</data>
+</edge>
+<edge source="Hinduism" target="moksha">
+  <data key="d0">facet of</data>
+</edge>
+<edge source="Hinduism" target="Bhakti">
+  <data key="d0">facet of</data>
+</edge>
+<edge source="Hinduism" target="Bhagavan">
+  <data key="d0">facet of</data>
+</edge>
+<edge source="Hinduism" target="Devi">
+  <data key="d0">facet of</data>
+</edge>
+<edge source="Hinduism" target="Vaisheshika">
+  <data key="d0">subclass of</data>
+</edge>
+<edge source="Hinduism" target="Vaishnavism">
+  <data key="d0">subclass of</data>
+</edge>
+<edge source="Hinduism" target="Hindu cosmology">
+  <data key="d0">facet of</data>
+</edge>
+<edge source="Hinduism" target="Hinduism">
+  <data key="d0">religion</data>
+</edge>
+<edge source="Hinduism" target="Indo-Aryan migrations">
+  <data key="d0">facet of</data>
+</edge>
+<edge source="Hinduism" target="Indo-Aryan">
+  <data key="d0">religion</data>
+</edge>
+<edge source="Hinduism" target="religions">
+  <data key="d0">instance of</data>
+</edge>
+<edge source="Hinduism" target="India">
+  <data key="d0">religion</data>
+</edge>
+<edge source="Hinduism" target="religion">
+  <data key="d0">instance of</data>
+</edge>
+<edge source="Bhagavata Purana" target="Sanskrit">
+  <data key="d0">language of work or name</data>
+</edge>
+<edge source="Swami Vivekananda" target="Hindu Renaissance">
+  <data key="d0">movement</data>
+</edge>
+<edge source="Swami Vivekananda" target="Mahatma Gandhi">
+  <data key="d0">influenced by</data>
+</edge>
+<edge source="Hindu Renaissance" target="Mahatma Gandhi">
+  <data key="d0">movement</data>
+</edge>
+<edge source="Atman" target="Brahman">
+  <data key="d0">said to be the same as</data>
+</edge>
+<edge source="Bhakti" target="worship">
+  <data key="d0">instance of</data>
+</edge>
+<edge source="Devi" target="Shiva">
+  <data key="d0">spouse</data>
+</edge>
+<edge source="Shiva" target="Parvati">
+  <data key="d0">spouse</data>
+</edge>
+<edge source="Shiva" target="Shakti">
+  <data key="d0">spouse</data>
+</edge>
+<edge source="Radha" target="Krishna">
+  <data key="d0">spouse</data>
+</edge>
+<edge source="Indo-Aryan" target="Indo-Aryan">
+  <data key="d0">part of</data>
+</edge>
+<edge source="Indo-Aryan" target="ethnic group">
+  <data key="d0">instance of</data>
+</edge>
+<edge source="Ganges" target="Yamuna">
+  <data key="d0">mouth of the watercourse</data>
+</edge>
+<edge source="Ganges" target="Haridwar">
+  <data key="d0">located in or next to body of water</data>
+</edge>
+<edge source="Diwali" target="festival">
+  <data key="d0">instance of</data>
+</edge>
+<edge source="Vedic calendar" target="lunisolar calendar">
+  <data key="d0">instance of</data>
+</edge>
+<edge source="lunisolar calendar" target="Hindu calendar">
+  <data key="d0">instance of</data>
+</edge>
+<edge source="Yoga Sutras" target="Patanjali">
+  <data key="d0">notable work</data>
+</edge>
+<edge source="Yoga Sutras" target="Yoga">
+  <data key="d0">part of</data>
+</edge>
+<edge source="Hindu cosmology" target="Brahma">
+  <data key="d0">named after</data>
+</edge>
+</graph></graphml>

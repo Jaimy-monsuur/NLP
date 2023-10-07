@@ -1,0 +1,66 @@
+  {'head': 'India', 'type': 'located in or next to body of water', 'tail': 'Indian Ocean'}
+  {'head': 'India', 'type': 'located in or next to body of water', 'tail': 'Bay of Bengal'}
+  {'head': 'India', 'type': 'shares border with', 'tail': 'Pakistan'}
+  {'head': 'India', 'type': 'shares border with', 'tail': 'Bangladesh'}
+  {'head': 'India', 'type': 'shares border with', 'tail': 'Myanmar'}
+  {'head': 'Indian Ocean', 'type': 'basin country', 'tail': 'India'}
+  {'head': 'Pakistan', 'type': 'shares border with', 'tail': 'India'}
+  {'head': 'India', 'type': 'located in', 'tail': 'Indian Ocean'}
+  {'head': 'Pakistan', 'type': 'shares border with', 'tail': 'Bangladesh'}
+  {'head': 'Arabian Sea', 'type': 'basin country', 'tail': 'India'}
+  {'head': 'Indo-Aryan', 'type': 'religion', 'tail': 'Hinduism'}
+  {'head': 'Indo-Aryan migration', 'type': 'part of', 'tail': 'Indo-Greek'}
+  {'head': 'Indo-Aryan migration', 'type': 'location', 'tail': 'Indo-Greece'}
+  {'head': 'Mahavira', 'type': 'religion', 'tail': 'Buddhism'}
+  {'head': 'Mahavira', 'type': 'part of', 'tail': 'Buddhism'}
+  {'head': 'Mahavira', 'type': 'religion', 'tail': 'Buddhist'}
+  {'head': 'Delhi Sultanate', 'type': 'inception', 'tail': '1206'}
+  {'head': 'Mughal Empire', 'type': 'inception', 'tail': '1206'}
+  {'head': 'Mughal Empire', 'type': 'replaces', 'tail': 'Delhi Sultanate'}
+  {'head': 'Delhi Sultanate', 'type': 'replaced by', 'tail': 'Mughal Empire'}
+  {'head': 'Indian National Congress', 'type': 'inception', 'tail': '1885'}
+  {'head': 'Indian National Congress', 'type': 'instance of', 'tail': 'republic'}
+  {'head': 'Indian Rebellion of 1857', 'type': 'point in time', 'tail': '1857'}
+  {'head': 'Indian Plate', 'type': 'shares border with', 'tail': 'Indo-Australian Plate'}
+  {'head': 'Indo-Australian Plate', 'type': 'shares border with', 'tail': 'Indian Plate'}
+  {'head': 'India', 'type': 'located in or next to body of water', 'tail': 'Ganges'}
+  {'head': 'India', 'type': 'located in or next to body of water', 'tail': 'Brahmaputra'}
+  {'head': 'India', 'type': 'contains administrative territorial entity', 'tail': 'Andaman and Nicobar Islands'}
+  {'head': 'Ganges', 'type': 'located in the administrative territorial entity', 'tail': 'India'}
+  {'head': 'Ganges', 'type': 'mouth of the watercourse', 'tail': 'Bay of Bengal'}
+  {'head': 'Brahmaputra', 'type': 'located in the administrative territorial entity', 'tail': 'India'}
+  {'head': 'Ganges', 'type': 'located in or next to body of water', 'tail': 'India'}
+  {'head': 'Ganges', 'type': 'located in or', 'tail': 'India'}
+  {'head': 'ecosystem', 'type': 'subclass of', 'tail': 'biome'}
+  {'head': 'endemic', 'type': 'subclass of', 'tail': 'species'}
+  {'head': '1951', 'type': 'successful candidate', 'tail': 'Jawaharlal Nehru'}
+  {'head': '1957', 'type': 'successful candidate', 'tail': 'Jawaharlal Nehru'}
+  {'head': '1962', 'type': 'successful candidate', 'tail': 'Jawaharlal Nehru'}
+  {'head': '2014 general election', 'type': 'successful candidate', 'tail': 'Narendra Modi'}
+  {'head': '1957', 'type': 'followed by', 'tail': '1962'}
+  {'head': '1962', 'type': 'point in time', 'tail': '1962'}
+  {'head': 'Rajiv Gandhi', 'type': 'member of political party', 'tail': 'Indian National Congress'}
+  {'head': 'Parliament', 'type': 'has part', 'tail': 'Rajya Sabha'}
+  {'head': 'Rajya Sabha', 'type': 'part of', 'tail': 'Parliament'}
+  {'head': 'Government of India', 'type': 'office held by head of the organization', 'tail': 'President of India'}
+  {'head': 'President of India', 'type': 'part of', 'tail': 'Government of India'}
+  {'head': 'president', 'type': 'part of', 'tail': 'Government of India'}
+  {'head': 'executive committee', 'type': 'part of', 'tail': 'Government of India'}
+  {'head': 'war with China', 'type': 'participant', 'tail': 'Pakistan'}
+  {'head': 'India', 'type': 'part of', 'tail': 'South America'}
+  {'head': 'India', 'type': 'member of', 'tail': 'ASEAN'}
+  {'head': 'South America', 'type': 'has part', 'tail': 'India'}
+  {'head': 'ASEAN', 'type': 'has part', 'tail': 'India'}
+  {'head': 'India', 'type': 'member of', 'tail': 'World Trade Organization'}
+  {'head': 'S-400 Triumf', 'type': 'country of origin', 'tail': 'Russia'}
+  {'head': 'S-400 Triumf', 'type': 'country of origin', 'tail': 'India'}
+  {'head': 'Electricity', 'type': 'subclass of', 'tail': 'renewable energy'}
+  {'head': 'India', 'type': 'significant event', 'tail': 'global greenhouse gas emissions'}
+  {'head': 'India', 'type': 'member of', 'tail': 'UNESCO World Heritage Site'}
+  {'head': 'Indian languages', 'type': 'has part', 'tail': 'Hindi'}
+  {'head': 'Hindi', 'type': 'subclass of', 'tail': 'Indian languages'}
+  {'head': 'Hindi', 'type': 'part of', 'tail': 'Indian languages'}
+  {'head': 'India', 'type': 'language used', 'tail': 'Hindi'}
+  {'head': 'Mohenjo-daro', 'type': 'country', 'tail': 'Pakistan'}
+  {'head': 'Shiva', 'type': 'spouse', 'tail': 'Parvati'}
+  {'head': 'Parvati', 'type': 'spouse', 'tail': 'Shiva'}
